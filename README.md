@@ -58,7 +58,7 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 - **Airport Proximity:** Queens neighborhoods near airports present opportunities for short-term stays and competitive pricing.
 
 ## Data Link
-
+[Here the data link](https://github.com/Shirin997/Airbnb-price-Analysis-Using-Python/blob/main/Airbnb%20NYC%202019%20Dataset%20(3).csv)
 ## Project link
 
 ## Authors
