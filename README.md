@@ -60,7 +60,7 @@ Our project delves into the intricate dynamics of Airbnb rentals in New York Cit
 ## Data Link
 [Here the data link](https://github.com/Shirin997/Airbnb-price-Analysis-Using-Python/blob/main/Airbnb%20NYC%202019%20Dataset%20(3).csv)
 ## Project link
-
+[Here the project link](https://github.com/Shirin997/Airbnb-price-Analysis-Using-Python/blob/main/AIEBNB_ANALYSIS(EDA)%20(1).ipynb)
 ## Authors
 
 - [@Shirin997](https://github.com/Shirin997)
